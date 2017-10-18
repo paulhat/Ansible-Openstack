@@ -1,0 +1,2 @@
+# Ansible-Openstack
+openstack lab
